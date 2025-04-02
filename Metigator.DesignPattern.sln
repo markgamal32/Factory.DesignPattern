@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metigator.DesignPattern.Abs
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleFactory_Example", "SimpleFactory_Example\SimpleFactory_Example.csproj", "{B63A59BF-B40C-48B5-B019-CE834A1D30C1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodFactory_Example", "MethodFactory_Example\MethodFactory_Example.csproj", "{6AACF710-44D9-4B4F-8BD4-B8C11270C4D9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{B63A59BF-B40C-48B5-B019-CE834A1D30C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B63A59BF-B40C-48B5-B019-CE834A1D30C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B63A59BF-B40C-48B5-B019-CE834A1D30C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AACF710-44D9-4B4F-8BD4-B8C11270C4D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AACF710-44D9-4B4F-8BD4-B8C11270C4D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AACF710-44D9-4B4F-8BD4-B8C11270C4D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AACF710-44D9-4B4F-8BD4-B8C11270C4D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
